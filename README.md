@@ -1,2 +1,2 @@
-# maptalks.deckgl
-The plugin to play deck.gl with maptalks.js
+# maptalks.tripline
+A animated trip line layer for maptalks.js
